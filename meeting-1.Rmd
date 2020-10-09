@@ -1,0 +1,29 @@
+---
+title: "First meeting"
+author: "Gustav Delius"
+date: "10/9/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+We had our first meeting by zoom at 2pm on Friday 9 October 2020. Everyone was
+present and everyone briefly introduced themselves.
+
+We agreed that for the rest of the autumn term we will meet weekly at 2pm on Tuesdays via zoom at <https://york-ac-uk.zoom.us/j/5277386983>.
+
+During the first week everyone will concentrate on getting comfortable with R, RStudio, R Markdown, Git and GitHub. For this purpose I recommend to follow the lectures in the MOOC "[The Data Scientist's Toolbox](https://www.coursera.org/learn/data-scientists-tools)". From this we only need weeks 2 and 3 and the first section of week 4.
+
+Before next meeting I would like everyone to create a repository for their final-year project on GitHub. 
+
+As a GitHub challenge: try to edit this file to link your name below to your GitHub repository and then make a pull request. (You will have to figure out what that even means.)
+
+-   [Gustav Delius](https://github.com/gustavdelius/fisheries-data-analysis)
+-   Chloe Hodson
+-   Jacob Passfield
+-   Maisie Beckett
+-   Scott Connors
+-   Tallulah Coyte
+-   Felix Carter
