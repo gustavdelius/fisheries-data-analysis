@@ -24,6 +24,6 @@ As a GitHub challenge: try to edit this file to link your name below to your Git
 -   Chloe Hodson
 -   Jacob Passfield
 -   Maisie Beckett
--   Scott Connors
+-   [Scott Connors](https://github.com/Scott-Connors/3rd-Year-Project)
 -   Tallulah Coyte
 -   Felix Carter
