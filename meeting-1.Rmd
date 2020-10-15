@@ -22,7 +22,7 @@ As a GitHub challenge: try to edit this file to link your name below to your Git
 
 -   [Gustav Delius](https://github.com/gustavdelius/fisheries-data-analysis)
 -   Chloe Hodson
--   Jacob Passfield
+-   [Jacob Passfield](https://github.com/jacobpassfield/third-year-project)
 -   Maisie Beckett
 -   Scott Connors
 -   Tallulah Coyte
