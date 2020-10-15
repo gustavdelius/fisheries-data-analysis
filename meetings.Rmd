@@ -27,3 +27,13 @@ As a GitHub challenge: try to edit this file to link your name below to your Git
 -   [Scott Connors](https://github.com/Scott-Connors/3rd-Year-Project)
 -   Tallulah Coyte
 -   Felix Carter
+
+## 15 October
+
+Short meeting with everyone present. No one reports any difficulties with Git and GitHub. 
+
+For next week I propose that everyone work through ["An introduction to basic fisheries analysis with R"](https://sfg-ucsb.github.io/fishery-manageR/). There you will learn a lot of skills necessary for
+taking a first look at data. Please try to not only reproduce the analysis in that document, but
+play around a bit, for example changing the way the data is plotted. This will prepare you for
+when you get your own data set to visualise.
+
