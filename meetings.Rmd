@@ -26,7 +26,7 @@ As a GitHub challenge: try to edit this file to link your name below to your Git
 -   Maisie Beckett
 -   [Scott Connors](https://github.com/Scott-Connors/3rd-Year-Project)
 -   Tallulah Coyte
--   Felix Carter
+-   Felix Carter (https://github.com/Felix-C577/Third-Year-Project)
 
 ## 15 October
 
