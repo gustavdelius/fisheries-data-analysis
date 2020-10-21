@@ -21,12 +21,12 @@ Before next meeting I would like everyone to create a repository for their final
 As a GitHub challenge: try to edit this file to link your name below to your GitHub repository and then make a pull request. (You will have to figure out what that even means.)
 
 -   [Gustav Delius](https://github.com/gustavdelius/fisheries-data-analysis)
--   Chloe Hodson
+-   [Chloe Hodson](https://github.com/ChloeH276/Third-Year-Project)
 -   [Jacob Passfield](https://github.com/jacobpassfield/third-year-project)
--   Maisie Beckett
+-   [Maisie Beckett](https://github.com/maisiebeckett/3rd-year-project)
 -   [Scott Connors](https://github.com/Scott-Connors/3rd-Year-Project)
--   Tallulah Coyte (https://github.com/tallulahcoyte/3rd-Year-Project)
--   Felix Carter
+-   [Tallulah Coyte](https://github.com/tallulahcoyte/3rd-Year-Project)
+-   [Felix Carter](https://github.com/Felix-C577/Third-Year-Project)
 
 ## 15 October
 
