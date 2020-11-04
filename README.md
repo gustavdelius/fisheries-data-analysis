@@ -2,12 +2,12 @@
 
 There are 6 students doing their final-year project at the University of York on Data Analysis in Fisheries Science:
 
--   Chloe Hodson
--   Jacob Passfield
--   Maisie Beckett
--   Scott Connors
--   Tallulah Coyte
--   Felix Carter
+-   [Chloe Hodson](https://github.com/ChloeH276/Third-Year-Project)
+-   [Jacob Passfield](https://github.com/jacobpassfield/third-year-project)
+-   [Maisie Beckett](https://github.com/maisiebeckett/3rd-year-project)
+-   [Scott Connors](https://github.com/Scott-Connors/3rd-Year-Project)
+-   [Tallulah Coyte](https://github.com/tallulahcoyte/3rd-Year-Project)
+-   [Felix Carter](https://github.com/Felix-C577/Third-Year-Project)
 
 They are supervised by [Gustav Delius](https://www.york.ac.uk/maths/staff/gustav-delius/) except for Felix who is supervised by [Jon Pitchford](https://www.york.ac.uk/maths/staff/jon-pitchford/).
 
