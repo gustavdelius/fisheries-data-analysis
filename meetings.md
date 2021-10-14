@@ -35,5 +35,8 @@ any difficulties. During this first term there is nothing wrong with us
 relying on each other. There will be plenty of opportunity to prove
 independence next term.
 
+Next week I will ask you to start working through 
+[“An introduction to basic fisheries analysis with R”](https://sfg-ucsb.github.io/fishery-manageR/).
+
 We will meet again every Thursday at 4pm (but with a delayed start to allow
 everyone to reach a computer).
