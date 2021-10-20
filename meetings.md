@@ -27,7 +27,7 @@ figure out what that even means.)
 - [Gustav Delius](https://github.com/gustavdelius/fisheries-data-analysis)
 -  Alexander Steer-Milnes
 -  Georgina Shaw
--  Kathryn Dongray
+-  [Kathryn Dongray](https://github.com/kathryndongray/fisheries-science-)
 -  Owain Morgan
 
 I encouraged everyone to ask questions by group email when they run into
