@@ -40,3 +40,25 @@ Next week I will ask you to start working through
 
 We will meet again every Thursday at 4pm (but with a delayed start to allow
 everyone to reach a computer).
+
+
+## 21 October
+Everyone present. 
+
+Kathryn has watched some of the videos in the MOOC “[The Data Scientist’s
+Toolbox](https://www.coursera.org/learn/data-scientists-tools)” and says she had
+to enter her credit card but was able to immediately cancel the subscription.
+She has been able to set up everything on her computer, but I also show the
+[RStudio cloud](https://rstudio.cloud/) at as an alternative. She has set up
+[her profile on GitHub](https://github.com/kathryndongray) where she has two
+repositories: one is a fork of mine and the other is a new one she created for
+her final-year project. She then edited the meetings.md file to put in a link to
+her repository and made a pull request, which I merged into my repository. That
+is why her name above is now a link. I would like everyone else to work towards
+having the same setup. If you run into difficulties, Kathryn or I may be able to
+help.
+
+For next week I would like you to work through the examples in chapters 7 to 9
+in [“An introduction to basic fisheries analysis with R”](https://sfg-ucsb.github.io/fishery-manageR/). This will teach you a lot of
+R skills. Then, I would like you to apply some of what you learned to a
+data set that I will share with you in a few days. 
