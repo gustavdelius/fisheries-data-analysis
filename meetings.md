@@ -28,7 +28,7 @@ figure out what that even means.)
 -  Alexander Steer-Milnes
 -  Georgina Shaw
 -  Kathryn Dongray
--  [Owain Morgan](https://github.com/owainrmorgan)
+-  [Owain Morgan](https://github.com/owainrmorgan/fisheries-dissertation)
 
 I encouraged everyone to ask questions by group email when they run into
 any difficulties. During this first term there is nothing wrong with us
