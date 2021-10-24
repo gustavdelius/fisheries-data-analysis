@@ -62,3 +62,15 @@ For next week I would like you to work through the examples in chapters 7 to 9
 in [“An introduction to basic fisheries analysis with R”](https://sfg-ucsb.github.io/fishery-manageR/). This will teach you a lot of
 R skills. Then, I would like you to apply some of what you learned to a
 data set that I will share with you in a few days. 
+
+### Email on 24 October
+
+Dear All,
+
+at our last meeting I said I would email you all with a task to apply your new skills to. Here it is:
+
+Produce an RMarkdown document that compares the median CPUE to the mean CPUE. Ideally you would plot the time series for both in the same figure. This will require some skills beyond what "Introductory Fisheries Analyses with R" introduces. Chapters 3 and 4 of R for Data Science at https://r4ds.had.co.nz/ may be helpful. Perhaps also make a boxplot of the distribution of CPUE to understand the origin of the difference between mean and median. 
+
+This is just a practice exercise. It does not mean that in your project you will be interested in CPUE. Please email me when you are done with a link to the RMarkdown in your GitHub repository.
+
+If you want some motivation for why you are developing these skills: I want you to be able to use your final-year project to make a real useful contribution to one of two research projects. One is a project that is just starting: https://www.smmr.org.uk/funded-projects/pyramids-of-life-working-with-nature/. The other is a collaboration with NIWA in New Zealand, see https://github.com/gustavdelius/fisheries-data-analysis/blob/main/NIWA%20project.pdf
