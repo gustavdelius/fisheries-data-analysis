@@ -25,7 +25,7 @@ your GitHub repository and then make a pull request. (You will have to
 figure out what that even means.)
 
 - [Gustav Delius](https://github.com/gustavdelius/fisheries-data-analysis)
--  Alexander Steer-Milnes
+-  [Alexander Steer-Milnes](https://github.com/AlexanderRS-M/Fisheries_DA_ARSM)
 -  [Georgina Shaw](https://github.com/Georgina-Shaw/Final-Year-Project-)
 -  [Kathryn Dongray](https://github.com/kathryndongray/fisheries-science-)
 -  [Owain Morgan](https://github.com/owainrmorgan/fisheries-dissertation)
