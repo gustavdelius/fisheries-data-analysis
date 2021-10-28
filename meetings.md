@@ -74,3 +74,11 @@ Produce an RMarkdown document that compares the median CPUE to the mean CPUE. Id
 This is just a practice exercise. It does not mean that in your project you will be interested in CPUE. Please email me when you are done with a link to the RMarkdown in your GitHub repository.
 
 If you want some motivation for why you are developing these skills: I want you to be able to use your final-year project to make a real useful contribution to one of two research projects. One is a project that is just starting: https://www.smmr.org.uk/funded-projects/pyramids-of-life-working-with-nature/. The other is a collaboration with NIWA in New Zealand, see https://github.com/gustavdelius/fisheries-data-analysis/blob/main/NIWA%20project.pdf
+
+Here are the links to the RMarkdown files that resulted from the above exercise:
+
+-  Alexander Steer-Milnes
+-  Georgina Shaw
+-  Kathryn Dongray
+-  Owain Morgan
+
