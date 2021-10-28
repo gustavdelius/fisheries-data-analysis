@@ -5,10 +5,10 @@ There are 4 students supervised by
 who are doing their final-year project at the University of York on 
 mathematical investigations related to Fisheries Science:
 
--  Alexander Steer-Milnes
--  Georgina Shaw
--  Kathryn Dongray
--  Owain Morgan
+-  [Alexander Steer-Milnes](https://github.com/AlexanderRS-M)
+-  [Georgina Shaw](https://github.com/Georgina-Shaw)
+-  [Kathryn Dongray](https://github.com/kathryndongray)
+-  [Owain Morgan](https://github.com/owainrmorgan)
 
 These projects all involve working with R, either to model fish populations
 or to analyse fisheries data. 
