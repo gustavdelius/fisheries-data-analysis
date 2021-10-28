@@ -82,3 +82,28 @@ Here are the links to the RMarkdown files that resulted from the above exercise:
 -  Kathryn Dongray
 -  Owain Morgan
 
+
+## 28 October
+All present. I am very pleased with how successfully everyone is climbing the
+steep learning curves. Georgina, Kathryn and Owain have produced code for the
+exercise I set in the email on 24 October. Kathryn still has to convert her file
+to RMarkdown. Alexander has worked through the relevant chapters but has yet to
+do the exercise, but has experience from his second-year project and thinks he
+will catch up quickly. 
+
+Hence I have now given everyone access to the repository at
+https://github.com/gustavdelius/stomach_data which contains a data file with
+stomach data and some code plotting some related graphs, and two related recent
+research papers:
+
+1. Reum, J. C. P., Holsman, K. K., Aydin, K. Y., Blanchard, J. L. & Jennings, S. Energetically relevant predator-prey body mass ratios and their relationship with predator body size. Ecology and Evolution 9, 201–211 (2019).
+
+2. Thompson, M. S. A. et al. A feeding guild indicator to assess environmental change impacts on marine ecosystem structure and functioning. J Appl Ecol 57, 1769–1781 (2020).
+
+I would like everyone to engage with this material by scanning these papers 
+and looking at related papers, trying to form some impression of what this is
+all about. I warned everyone that this will feel almost impossible at first.
+
+I recommend that everyone use [zotero](https://www.zotero.org/) to organise 
+the papers they find.
+
